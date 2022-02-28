@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">appCamAudioVideo</string>
+    <string name="cameraFoto">Hacer fotos</string>
+    <string name="grabarAudio">Registrar audio</string>
+    <string name="reproductorVideo">Reproductor video</string>
+    <string name="idGrabar">Grabar</string>
+    <string name="idPausar">Pausar</string>
+    <string name="idAturar">Parar</string>
+    <string name="idTitolAudio">Registrar Audio</string>
+    <string name="idFerFoto">HacerFoto</string>
+    <string name="buffering_string">buffering</string>
+    <string name="toast_message">Playback completed.</string>
+</resources>
